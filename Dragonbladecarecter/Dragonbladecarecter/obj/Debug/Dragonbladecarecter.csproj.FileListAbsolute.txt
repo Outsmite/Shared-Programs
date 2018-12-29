@@ -1,0 +1,7 @@
+C:\Users\DavidGilner\source\repos\Dragonbladecarecter\Dragonbladecarecter\bin\Debug\Dragonbladecarecter.exe.config
+C:\Users\DavidGilner\source\repos\Dragonbladecarecter\Dragonbladecarecter\bin\Debug\Dragonbladecarecter.exe
+C:\Users\DavidGilner\source\repos\Dragonbladecarecter\Dragonbladecarecter\bin\Debug\Dragonbladecarecter.pdb
+C:\Users\DavidGilner\source\repos\Dragonbladecarecter\Dragonbladecarecter\obj\Debug\Dragonbladecarecter.csprojAssemblyReference.cache
+C:\Users\DavidGilner\source\repos\Dragonbladecarecter\Dragonbladecarecter\obj\Debug\Dragonbladecarecter.csproj.CoreCompileInputs.cache
+C:\Users\DavidGilner\source\repos\Dragonbladecarecter\Dragonbladecarecter\obj\Debug\Dragonbladecarecter.exe
+C:\Users\DavidGilner\source\repos\Dragonbladecarecter\Dragonbladecarecter\obj\Debug\Dragonbladecarecter.pdb
